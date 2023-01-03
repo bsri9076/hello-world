@@ -1,1 +1,2 @@
 Hello Artifactory and Sonar
+Hi AUto trigger chcek when webhook is configured
